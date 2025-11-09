@@ -1,4 +1,0 @@
-Lección 4: Manipulación de archivos
-
-- cp: copiar archivos
-- globs: *.txt coincide con todos los archivos .txt

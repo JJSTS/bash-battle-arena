@@ -1,4 +1,0 @@
-Lección 13: Rotación de respaldos
-
-- cp -r origen directorio_respaldo
-- Mantén los últimos 5 respaldos usando ls y rm
