@@ -1,3 +1,0 @@
-Lección 14: Menús con select/case
-
-- select opcion in opc1 opc2; do case $opcion in ...; done

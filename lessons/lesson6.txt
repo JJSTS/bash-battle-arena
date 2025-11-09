@@ -1,4 +1,0 @@
-Lección 6: Análisis de argumentos
-
-- $1: primer argumento
-- if [ -z "$1" ]; then echo 'Sin argumento'; fi

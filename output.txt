@@ -1,3 +1,0 @@
-rogue.txt
-sorcerer.txt
-knight.txt

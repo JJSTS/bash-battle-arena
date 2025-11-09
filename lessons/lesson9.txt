@@ -1,3 +1,0 @@
-Lección 9: Monitorear cambios en directorios
-
-- Usa inotifywait o monitorea marcas de tiempo

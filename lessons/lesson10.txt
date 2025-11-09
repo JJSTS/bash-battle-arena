@@ -1,3 +1,0 @@
-Lección 10: Batalla Final 2
-
-Combina: mkdir, touch, contenido aleatorio, ordenamiento, grep, mv
