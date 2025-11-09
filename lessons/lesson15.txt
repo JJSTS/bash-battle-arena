@@ -1,3 +1,0 @@
-Lección 15: Batalla Final 3 - Sistema de menú final
-
-- Combina respaldo, uptime, uso de disco, análisis de configuración

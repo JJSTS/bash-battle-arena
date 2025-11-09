@@ -1,4 +1,0 @@
-Lección 8: Buscar en archivos
-
-- grep 'patrón' archivo
-- for f in *.log; do grep ...; done
