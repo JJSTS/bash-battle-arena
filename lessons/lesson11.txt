@@ -1,4 +1,0 @@
-Lección 11: Monitoreo de uso de disco
-
-- df -h .
-- Usa comparaciones aritméticas con umbrales de uso

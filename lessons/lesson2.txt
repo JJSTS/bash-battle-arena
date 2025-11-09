@@ -1,4 +1,0 @@
-Lección 2: Variables y Bucles
-
-Las variables almacenan valores.
-Los bucles repiten comandos — útiles para contar, automatización y tareas de scripting.
