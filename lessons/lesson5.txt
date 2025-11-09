@@ -1,3 +1,0 @@
-Lección 5: Batalla Final 1 - Combinar conceptos
-
-Repasa mkdir, touch, cp, mv, verificaciones if

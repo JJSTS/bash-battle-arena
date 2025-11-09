@@ -1,4 +1,0 @@
-Lección 3: Declaraciones condicionales
-
-- if [ -f archivo ]; then ... fi
-- comando test: [ condición ]
